@@ -1,0 +1,14 @@
+.pio/
+.venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+compile_commands.json
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+include/secrets.h
